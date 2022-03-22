@@ -1,1 +1,1 @@
-# Assignment-2-edyoda
+List,tuple and dict with python.
